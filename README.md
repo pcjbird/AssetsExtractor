@@ -12,6 +12,6 @@
 ![Step 4.](/screenshot/screenshot4.jpg)
 
 
-##问题反馈微信群：
+## 问题反馈微信群
 
 ![apple daddy qrcode](/screenshot/apple_daddy_qrcode.png)
