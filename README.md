@@ -14,6 +14,8 @@
 ![Step 4.](/screenshot/screenshot4.jpg)
 
 
-## 问题反馈微信群
 
-![apple daddy qrcode](/screenshot/apple_daddy_qrcode.png)
+## Follow us
+
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://github.com/pcjbird/AssetsExtractor)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ramotion.svg?style=social)](https://twitter.com/pcjbird)
