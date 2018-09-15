@@ -19,7 +19,7 @@
 
 <a href="https://itunes.apple.com/cn/app/iclock-一款满足-挑剔-的翻页时钟与任务闹钟/id1128196970?pt=117947806&ct=com.github.pcjbird.AssetsExtractor&mt=8"><img src="iClock.gif" width="400" title="iClock - 一款满足“挑剔”的翻页时钟与任务闹钟"></a>
 
-<a href="https://itunes.apple.com/cn/app/iclock-一款满足-挑剔-的翻页时钟与任务闹钟/id1128196970?pt=117947806&ct=com.github.pcjbird.AssetsExtractor&mt=8"><img src="iclock_xr.png" width="400" title="iClock - 一款满足“挑剔”的翻页时钟与任务闹钟"></a>
+<a href="https://itunes.apple.com/cn/app/iclock-一款满足-挑剔-的翻页时钟与任务闹钟/id1128196970?pt=117947806&ct=com.github.pcjbird.AssetsExtractor&mt=8"><img src="iclock_xr.png" width="686" title="iClock - 一款满足“挑剔”的翻页时钟与任务闹钟"></a>
 
 <a href="https://itunes.apple.com/cn/app/iclock-simplest-always-best/id1128196970?pt=117947806&ct=com.github.pcjbird.AssetsExtractor&mt=8"><img src="iClock.png" width="686" title="iClock - 一款满足“挑剔”的翻页时钟与任务闹钟"></a>
 
